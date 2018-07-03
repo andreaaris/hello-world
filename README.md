@@ -1,4 +1,3 @@
 # hello-world
 Rep 1
-
-Andrea, 25, cypriot
+Andrea, female 25, cypriot
